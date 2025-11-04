@@ -60,7 +60,7 @@
   <img src="Pics/Polarity_and_Subjectivity.png" alt="Polarity_and_Subjectivity" style="width:80%; height:auto;">
   </p>
   <br>
-* **Reviews Summary**: We collected the Positive reviews (rating >= 4) and Negative reviews (rating <= 3) and concatonated their titles and passed to the **Facebook's BART-Large-CNN** Model to produce two different summaries.<br><br>
+* **Reviews Summary**: We collected the Positive reviews (rating >= 4) and Negative reviews (rating <= 3) and concatonated their titles and passed to the **GEMINI** Model to produce two different summaries.<br><br>
   <p align="center">
   <img src="Pics/Summarized_Reviews.png" alt="Summarized_Reviews" style="width:80%; height:auto;">
   </p>
