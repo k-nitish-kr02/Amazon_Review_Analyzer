@@ -69,8 +69,6 @@
 
 Deployed on Streamlit. Check it out! : https://amazon-reviews-analyzer.streamlit.app
 
-# Team:
-
-This project was made by:
+# : This project was made by:
 * [Nitish Kumar](https://github.com/k-nitish-kr02)
 
